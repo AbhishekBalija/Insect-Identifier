@@ -53,3 +53,7 @@ Thumbs.db
 # Project specific
 .bolt/
 components/ui/
+hooks/
+postcss.config.js
+components.json
+.eslintrc.json

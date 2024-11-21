@@ -2,8 +2,9 @@
 const nextConfig = {
   output: 'export',
   images: { unoptimized: true },
-  basePath: '/insect-identifier',
-  assetPrefix: '/insect-identifier/',
+  basePath: '/Insect-Identifier',
+  assetPrefix: '/Insect-Identifier/',
+  trailingSlash: true,
 };
 
 module.exports = nextConfig;
